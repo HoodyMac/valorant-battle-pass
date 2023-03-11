@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/valorant-battle-pass/static/css/main.073c9b0a.css",
+    "main.js": "/valorant-battle-pass/static/js/main.c0c5aef5.js",
+    "static/js/787.f29d60bd.chunk.js": "/valorant-battle-pass/static/js/787.f29d60bd.chunk.js",
+    "static/media/logo.svg": "/valorant-battle-pass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/valorant-battle-pass/index.html",
+    "main.073c9b0a.css.map": "/valorant-battle-pass/static/css/main.073c9b0a.css.map",
+    "main.c0c5aef5.js.map": "/valorant-battle-pass/static/js/main.c0c5aef5.js.map",
+    "787.f29d60bd.chunk.js.map": "/valorant-battle-pass/static/js/787.f29d60bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c0c5aef5.js"
+  ]
+}
